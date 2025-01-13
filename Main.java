@@ -5,7 +5,6 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Prompt user for percent
         System.out.print("Enter the student's percentage (e.g., 95.0, 89.5, etc.): ");
         double percent = scanner.nextDouble();
 
