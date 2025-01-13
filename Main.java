@@ -8,7 +8,6 @@ public class Main {
         System.out.print("Enter the student's percentage (e.g., 95.0, 89.5, etc.): ");
         double percent = scanner.nextDouble();
 
-        // Determine GPA using if-else
         double gpa;
         if (percent >= 95.0 && percent <= 100.0) {
             gpa = 4.0;
