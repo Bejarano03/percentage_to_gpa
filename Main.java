@@ -78,7 +78,6 @@ public class Main {
             return;
         }
 
-        // Output result
         System.out.println("The GPA for a percentage of " + percent + "% is: " + gpa);
 
         scanner.close();
